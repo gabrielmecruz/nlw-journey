@@ -7,11 +7,11 @@
 <h2>Prewiew do projeto</h2>
 <p>Página incial</p>
 
-![pagInicial](https://raw.githubusercontent.com/gabrielmecruz/nlw-journey-frontend/main/src/assets/homepage.png)
+![pagInicial](https://raw.githubusercontent.com/gabrielmecruz/nlw-journey/main/frontend/src/assets/homepage.png)
 
 <p>Atividades da Viagem</p>
 
-![detalheViagem](https://raw.githubusercontent.com/gabrielmecruz/nlw-journey-frontend/main/src/assets/activities.png)
+![detalheViagem](https://raw.githubusercontent.com/gabrielmecruz/nlw-journey/main/frontend/src/assets/activities.png)
 
 <h2>A implementar</h2>
 <p>
